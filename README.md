@@ -25,10 +25,15 @@ It counts how many times the button was pressed.
 COMPONENETS REQUIRED:
 
 Arduino board
+
 Pushbutton
+
 One resistor (10kΩ)
+
 Wires and breadboard
+
 (Optional) LCD or LEDs to show the number
+
 
 CONNECTIONS:
 
